@@ -26,7 +26,7 @@ This consists of two parts, the sliding guide that is mounted to the base and th
 
 Material/parts used: standard 3D printing plastics and scrap metal/aluminum for the slot, brass insert: https://www.mcmaster.com/93738A210/
 
-###Headband
+### Headband
 
 The left and right mounting brackets have t-slots machined in them with slot opening for the screw to tighten the headband to a certain height. The adapter pieces that go inside the t-slot and the headband itself can be 3D printed as one piece but as we were prototyping, we kept them separate in case material had to be changed or the headband diameter would not be correct.
 Brass inserts are melted into the headband for proper threads and the bottom hole are used for connecting the t-slot pieces with the headband. The top holes are for the screw that goes through the mounting bracket and locks the headband in place for the desired height.
