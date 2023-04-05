@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Ophthalmic Imaging Chinrest
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Kari Viljami
+    family-names: Vienola
+    email: vienola.kari@gmail.com
+    affiliation: University of Turku
+    orcid: 'https://orcid.org/0000-0003-3390-392X'
+  - given-names: Ethan A.
+    family-names: Rossi
+    email: rossiea@pitt.edu
+    affiliation: University of Pittsburgh
+    orcid: 'https://orcid.org/0000-0003-3210-0551'
+url: 'https://github.com/kvienola/Pitt_chinrest'
