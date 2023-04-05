@@ -2,6 +2,8 @@
 
 The main function of this repository is to distribute the component designs of the original chinrest. Everything is free to download and we only ask you to cite our paper XXX if you decide to use the chinrest design (or part of it) in your scientific setup.
 
+The headrest was designed to be modular and most of the parts are 3D printable to minimize manufacturing costs. I roughly categorized the subassemblies/parts into few categories to quickly explain the reason behind the design decision and the material we chose. This is our first prototype so if you have ideas for design improvements, you can modify these parts as you please.
+
 Kari V. Vienola  
 _Researcher / University Teacher_  
 _University of Turku_
