@@ -4,8 +4,8 @@ The main function of this repository is to distribute the component designs of t
 
 Kari Vienola  
 _Researcher / University Teacher_  
-University of Turku_
+_University of Turku_
 
 Ethan Rossi  
-_Assistant Professor  
-University of Pittsburgh_
+_Assistant Professor_  
+_University of Pittsburgh_
