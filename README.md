@@ -4,6 +4,8 @@ The main function of this repository is to distribute the component designs of t
 
 The headrest was designed to be modular and most of the parts are 3D printable to minimize manufacturing costs. I roughly categorized the subassemblies/parts into few categories to quickly explain the reason behind the design decision and the material we chose. This is our first prototype so if you have ideas for design improvements, you can modify these parts as you please.
 
+If you wish to have the master assembly file from Fusion 360, please contact Kari Vienola. Also if you find the chinrest files useful, consider citing our paper: http://dx.doi.org/10.1364/AO.513801 (Head stabilization apparatus for high-resolution ophthalmic imaging).
+
 Kari V. Vienola  
 _Researcher / University Teacher_  
 _University of Turku_
