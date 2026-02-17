@@ -7,7 +7,7 @@ The headrest was designed to be modular and most of the parts are 3D printable t
 If you wish to have the master assembly file from Fusion 360, please contact Kari Vienola. Also if you find the chinrest files useful, consider citing our paper: http://dx.doi.org/10.1364/AO.513801 (Head stabilization apparatus for high-resolution ophthalmic imaging).
 
 Kari V. Vienola  
-_Researcher / University Teacher_  
+_Academy Research Fellow_  
 _University of Turku_
 
 Ethan A. Rossi  
